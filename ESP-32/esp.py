@@ -21,10 +21,11 @@ while True:
         led.value(0)
         sleep(0.5)
         
-    if pinooc.value() == 1:
+    if pinoc.value() == 1:
         print('UNIFBV')
         led.value(1)
         sleep(0.5)
         led.value(0)
 
         sleep(0.5)
+

@@ -16,9 +16,9 @@ LOCALIDADES = {
         'endereco': 'Av. Cap. Gregório de Caldas, 302 - Areias'
     },
     "CRECHE2": {
-        'nome': '',
-        'coordenadas': (),
-        'endereco': ''
+        'nome': 'Centro de Progressão Nossa Senhora das Graças',
+        'coordenadas': (-8.0859, -34.9260),
+        'endereco': 'R. Rubiataba, 10 - Jiquiá'
     }
 }
 
@@ -127,3 +127,4 @@ class ESPAlerta:
         self.janela.bind('<Escape>', lambda event: self.fechar())
 
         self.janela.mainloop()
+

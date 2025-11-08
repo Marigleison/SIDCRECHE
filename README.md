@@ -6,6 +6,7 @@ Este pojeto foi feito utilizando o MicroPython como uma implementação da lingu
 
 O código utilizando o MicroPython está localizado na pasta ESP-32, nele foi utilizado as bibliotecas: sys, machine e timne
 O código utilizando o Python 3 padrão está localizado na pasta PC.
+
 No arquivo principal(main.py) foi utilizado as bibliotecas: serial, threading e time, além da biblioteca funcoes
 No arquivo designado para armazenar as funções(funcoes.py) foram utilizadas as bibliotecas: tkinter, PIL, tkintermapview e pygame
 

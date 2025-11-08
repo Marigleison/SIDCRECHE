@@ -1,5 +1,6 @@
 # SIDCRECHE
-Projeto da faculdade de Aplic. em Cloud, IoT e Indústria 4.0 em Python. Prevenção de Incêndio em creches utilizando ESP-32.
+Projeto da faculdade de Aplic. em Cloud, IoT e Indústria 4.0 em Python. 
+Prevenção de Incêndio em creches utilizando ESP-32.
 
 Este pojeto foi feito utilizando o MicroPython como uma implementação da linguagem Python. Otimizada para rodar em microcontroladores e outros sistemas embarcados.
 
